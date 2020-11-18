@@ -1,2 +1,2 @@
 # OSIPI Toolbox
-This is a private repository for developments aiming to build a harmonized data processing toolbox across ASL, DSC and DCE MRI.
+This is the repository for developments aiming to build a harmonized data processing toolbox across ASL, DSC and DCE MRI within the context of the Open-Source Initiative for Perfusion Imaging (OSIPI). It is dedicated to Task Force 2.1. Eventually, it will host a merged toobox from repositories OSIPI-ASL-toolbox and OSIPI-DCE-DSC-MRI-toolbox when they will be harmonized between each other first.
